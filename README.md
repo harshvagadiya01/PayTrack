@@ -8,15 +8,23 @@ This project features a menu-driven console application that enables adding, rem
 *Features*
 
 ✅ Add Full-Time and Part-Time Employees
+
 ✅ Ensure Unique Employee IDs
+
 ✅ Remove Employees from the System
+
 ✅ Search for Employees by ID
+
 ✅ Display All Employees
+
 ✅ Filter by Full-Time or Part-Time Employees
+
 ✅ Calculate Total Payroll
+
 ✅ Simple and Interactive Menu-Driven Interface
 
-*How It Works*
+*How It Works*:
+
 1)Add an Employee: Enter the employee's name, ID, and salary details.
 
 2)Remove an Employee: Enter an employee ID to remove them.
