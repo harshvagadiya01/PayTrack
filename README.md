@@ -1,12 +1,12 @@
-#PayTrack
-  – Employee Payroll Management System
+# PayTrack
+  ##– Employee Payroll Management System
 
-*Overview*
+## *Overview:*
 PayTrack is a simple and efficient Employee Payroll Management System designed to handle full-time and part-time employee records. It allows businesses to effortlessly manage employee details, track salaries, and compute total payrolls.
 
 This project features a menu-driven console application that enables adding, removing, searching, and displaying employees based on their type (Full-Time or Part-Time). The system ensures unique employee IDs and provides payroll calculations in real time.
 
-*Features*
+## *Features:*
 
 ✅ Add Full-Time and Part-Time Employees
 
@@ -24,7 +24,7 @@ This project features a menu-driven console application that enables adding, rem
 
 ✅ Simple and Interactive Menu-Driven Interface
 
-*How It Works*:
+## *How It Works*:
 
 1)Add an Employee: Enter the employee's name, ID, and salary details.
 
