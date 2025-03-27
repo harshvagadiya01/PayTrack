@@ -1,5 +1,5 @@
 # PayTrack
-  ##– Employee Payroll Management System
+      – Employee Payroll Management System
 
 ## *Overview:*
 PayTrack is a simple and efficient Employee Payroll Management System designed to handle full-time and part-time employee records. It allows businesses to effortlessly manage employee details, track salaries, and compute total payrolls.
